@@ -1,0 +1,53 @@
+/*-----Fonte Rainbow Six-----*/
+
+@font-face {
+	font-family: Rainbow;
+	src: url(../font/Rainbow.ttf)
+}
+
+/*----Body----*/
+
+body{
+    background-color: black;
+}
+
+/*----Tabela----*/
+
+table{
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.head{
+    padding-top: 20px;
+    font-family: Rainbow;
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+    border-bottom: 1px solid;
+}
+
+th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: gray;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+}
+
+/*-----Footer-----*/
+
+footer{
+    border-top: solid 1px white;
+    font-family: Rainbow;
+    text-align: center;
+    padding: 10px 0px;
+    bottom: 0px;
+    min-width: 500px;
+    width: 100%;
+}

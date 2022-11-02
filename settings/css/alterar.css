@@ -1,0 +1,41 @@
+/*----Input Adicionar-----*/
+
+#barra{
+    min-width: 500px;
+}
+
+input{
+    margin-left: 30px;
+    color: black;
+    background-color: white;
+}
+
+button, input{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 4px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#botaoAdicionar{
+    color: white;
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+#botaoAdicionar:hover{
+    animation-name: botaoAdicionar;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    cursor: pointer;
+}
+
+/*-----Animaçao botão Adicionar-----*/
+
+@keyframes botaoAdicionar{
+    to {
+        color: aqua;
+        box-shadow: 0px 0px 8px aqua;
+    }
+}

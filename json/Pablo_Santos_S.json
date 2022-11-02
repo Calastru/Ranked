@@ -1,0 +1,593 @@
+{
+  "data": {
+    "id": "e75ae59c-4a85-425a-851b-2d96efde3266",
+    "type": "player",
+    "children": [
+      {
+        "id": "region-100.season-21",
+        "type": "sub-profile",
+        "metadata": {
+          "name": "[Global] Season 21",
+          "segment": "region-100.season-21",
+          "statsCategoryOrder": [
+            "Ranked"
+          ]
+        },
+        "stats": [
+          {
+            "metadata": {
+              "key": "MatchesPlayed",
+              "name": "Matches Played",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 55.0,
+            "displayValue": "55"
+          },
+          {
+            "metadata": {
+              "key": "Wins",
+              "name": "Wins",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 27.0,
+            "displayValue": "27"
+          },
+          {
+            "metadata": {
+              "key": "Losses",
+              "name": "Losses",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 27.0,
+            "displayValue": "27"
+          },
+          {
+            "metadata": {
+              "key": "Abandons",
+              "name": "Abandons",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 1.0,
+            "displayValue": "1"
+          },
+          {
+            "metadata": {
+              "key": "WLRatio",
+              "name": "WLRatio",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 49.09,
+            "displayValue": "49.10"
+          },
+          {
+            "metadata": {
+              "key": "MMR",
+              "name": "MMR",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 2542.0,
+            "displayValue": "2,542"
+          },
+          {
+            "metadata": {
+              "key": "MaxRank",
+              "name": "Max Rank",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 16.0,
+            "displayValue": "16"
+          },
+          {
+            "metadata": {
+              "key": "MaxMMR",
+              "name": "Max MMR",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 2769.0,
+            "displayValue": "2,769"
+          },
+          {
+            "metadata": {
+              "key": "Rank",
+              "name": "Rank",
+              "description": "SILVER I",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false,
+              "iconUrl": "https://trackercdn.com/cdn/r6.tracker.network/ranks/s15/15.png"
+            },
+            "value": 15.0,
+            "displayValue": "15"
+          }
+        ]
+      },
+      {
+        "id": "region-100.season-22",
+        "type": "sub-profile",
+        "metadata": {
+          "name": "[Global] Season 22",
+          "segment": "region-100.season-22",
+          "statsCategoryOrder": [
+            "Ranked"
+          ]
+        },
+        "stats": [
+          {
+            "metadata": {
+              "key": "MatchesPlayed",
+              "name": "Matches Played",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 116.0,
+            "displayValue": "116"
+          },
+          {
+            "metadata": {
+              "key": "Wins",
+              "name": "Wins",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 60.0,
+            "displayValue": "60"
+          },
+          {
+            "metadata": {
+              "key": "Losses",
+              "name": "Losses",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 54.0,
+            "displayValue": "54"
+          },
+          {
+            "metadata": {
+              "key": "Abandons",
+              "name": "Abandons",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 2.0,
+            "displayValue": "2"
+          },
+          {
+            "metadata": {
+              "key": "WLRatio",
+              "name": "WLRatio",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 51.72,
+            "displayValue": "51.70"
+          },
+          {
+            "metadata": {
+              "key": "MMR",
+              "name": "MMR",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 2702.0,
+            "displayValue": "2,702"
+          },
+          {
+            "metadata": {
+              "key": "MaxRank",
+              "name": "Max Rank",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 17.0,
+            "displayValue": "17"
+          },
+          {
+            "metadata": {
+              "key": "MaxMMR",
+              "name": "Max MMR",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false
+            },
+            "value": 2826.0,
+            "displayValue": "2,826"
+          },
+          {
+            "metadata": {
+              "key": "Rank",
+              "name": "Rank",
+              "description": "GOLD III",
+              "categoryKey": "Ranked",
+              "categoryName": "Ranked",
+              "isReversed": false,
+              "iconUrl": "https://trackercdn.com/cdn/r6.tracker.network/ranks/s15/16.png"
+            },
+            "value": 16.0,
+            "displayValue": "16"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "statsCategoryOrder": [
+        "bestRatings",
+        "Ranked",
+        "Performance",
+        "Effectiveness"
+      ],
+      "platformId": 4,
+      "pictureUrl": "https://ubisoft-avatars.akamaized.net/e75ae59c-4a85-425a-851b-2d96efde3266/default_256_256.png",
+      "countryCode": null,
+      "platformUserHandle": "Pablo_Santos_S",
+      "currentSeasonName": "North Star",
+      "currentSeasonColor": "#009cbe",
+      "accountId": "e75ae59c-4a85-425a-851b-2d96efde3266",
+      "segmentControls": [
+        {
+          "key": "region",
+          "icon": "earth",
+          "label": "Region",
+          "options": [
+            {
+              "label": "Europe",
+              "value": "region-1"
+            },
+            {
+              "label": "America",
+              "value": "region-2"
+            },
+            {
+              "label": "Asia",
+              "value": "region-3"
+            },
+            {
+              "label": "Global",
+              "value": "region-100"
+            }
+          ]
+        },
+        {
+          "key": "season",
+          "icon": "filter-outline",
+          "label": "Season",
+          "options": [
+            {
+              "label": "season 22",
+              "value": "season-22"
+            },
+            {
+              "label": "season 21",
+              "value": "season-21"
+            }
+          ]
+        }
+      ],
+      "latestSeason": 22,
+      "latestRegion": 100
+    },
+    "stats": [
+      {
+        "metadata": {
+          "key": "global_22_mmr",
+          "name": "Global MMR",
+          "description": "Season 22 Global MMR",
+          "categoryKey": "bestRatings",
+          "categoryName": "Season 22",
+          "isReversed": false,
+          "iconUrl": "https://trackercdn.com/cdn/r6.tracker.network/ranks/s15/16.png"
+        },
+        "value": 2702.0,
+        "percentile": 55.0,
+        "displayValue": "2,702"
+      },
+      {
+        "metadata": {
+          "key": "MMR",
+          "name": "MMR",
+          "categoryKey": "Ranked",
+          "categoryName": "Ranked",
+          "isReversed": false
+        },
+        "value": 2702.0,
+        "displayValue": "2,702"
+      },
+      {
+        "metadata": {
+          "key": "PVPKills",
+          "name": "Kills",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 1159.0,
+        "percentile": 57.0,
+        "rank": 3432581,
+        "displayValue": "1,159"
+      },
+      {
+        "metadata": {
+          "key": "PVPDeaths",
+          "name": "Deaths",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 1692.0,
+        "percentile": 63.0,
+        "rank": 2943401,
+        "displayValue": "1,692"
+      },
+      {
+        "metadata": {
+          "key": "PVPHostagesRescued",
+          "name": "Hostages Rescued",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 0.0,
+        "percentile": 0.0,
+        "rank": 4902673,
+        "displayValue": "0"
+      },
+      {
+        "metadata": {
+          "key": "PVPKDRatio",
+          "name": "KD Ratio",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 0.68,
+        "percentile": 23.0,
+        "rank": 6136282,
+        "displayValue": "0.68"
+      },
+      {
+        "metadata": {
+          "key": "PVPMatchesLost",
+          "name": "Matches Lost",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 183.0,
+        "percentile": 56.0,
+        "rank": 3490766,
+        "displayValue": "183"
+      },
+      {
+        "metadata": {
+          "key": "PVPMatchesWon",
+          "name": "Matches Won",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 192.0,
+        "percentile": 57.0,
+        "rank": 3425327,
+        "displayValue": "192"
+      },
+      {
+        "metadata": {
+          "key": "PVPMatchesPlayed",
+          "name": "Matches Played",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 379.0,
+        "percentile": 57.0,
+        "rank": 3450004,
+        "displayValue": "379"
+      },
+      {
+        "metadata": {
+          "key": "PVPWLRatio",
+          "name": "WL Ratio",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 50.7,
+        "percentile": 49.0,
+        "rank": 4002903,
+        "displayValue": "50.70"
+      },
+      {
+        "metadata": {
+          "key": "PVPKillAssists",
+          "name": "Kill Assists",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 462.0,
+        "percentile": 61.0,
+        "rank": 3118339,
+        "displayValue": "462"
+      },
+      {
+        "metadata": {
+          "key": "PVPAccuracy",
+          "name": "Accuracy",
+          "categoryKey": "Performance",
+          "categoryName": "Performance",
+          "isReversed": false
+        },
+        "value": 0.0,
+        "percentile": 61.0,
+        "rank": 3099862,
+        "displayValue": "40.47"
+      },
+      {
+        "metadata": {
+          "key": "PVPReinforcementsDeployed",
+          "name": "Reinforcements Deployed",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 2153.0,
+        "percentile": 71.0,
+        "rank": 2285789,
+        "displayValue": "2,153"
+      },
+      {
+        "metadata": {
+          "key": "PVPBarricadesDeployed",
+          "name": "Barricades Deployed",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 71.0,
+        "percentile": 35.0,
+        "rank": 5218386,
+        "displayValue": "71"
+      },
+      {
+        "metadata": {
+          "key": "PVPGadgetsDestroyed",
+          "name": "Gadgets Destroyed",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 1313.0,
+        "percentile": 60.0,
+        "rank": 3196470,
+        "displayValue": "1,313"
+      },
+      {
+        "metadata": {
+          "key": "PVPDBNOs",
+          "name": "DBNOs",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 408.0,
+        "percentile": 54.0,
+        "rank": 3693311,
+        "displayValue": "408"
+      },
+      {
+        "metadata": {
+          "key": "PVPBulletsHit",
+          "name": "Bullets Hit",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 8999.0,
+        "percentile": 55.0,
+        "rank": 3596589,
+        "displayValue": "8,999"
+      },
+      {
+        "metadata": {
+          "key": "PVPBulletsFired",
+          "name": "Bullets Fired",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 0.0,
+        "percentile": 0.0,
+        "rank": 3192127,
+        "displayValue": "0"
+      },
+      {
+        "metadata": {
+          "key": "PVPSuicides",
+          "name": "Suicides",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 3.0,
+        "percentile": 43.0,
+        "rank": 4061204,
+        "displayValue": "3"
+      },
+      {
+        "metadata": {
+          "key": "PVPMeleeKills",
+          "name": "Melee Kills",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 19.0,
+        "percentile": 66.0,
+        "rank": 2679560,
+        "displayValue": "19"
+      },
+      {
+        "metadata": {
+          "key": "PVPRevives",
+          "name": "Revives",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 20.0,
+        "percentile": 41.0,
+        "rank": 4660446,
+        "displayValue": "20"
+      },
+      {
+        "metadata": {
+          "key": "PVPPenetrationKills",
+          "name": "Penetration Kills",
+          "categoryKey": "Effectiveness",
+          "categoryName": "Effectiveness",
+          "isReversed": false
+        },
+        "value": 68.0,
+        "percentile": 57.0,
+        "rank": 3409879,
+        "displayValue": "68"
+      },
+      {
+        "metadata": {
+          "key": "PVPWLRatio",
+          "name": "Ranked WL Ratio",
+          "categoryKey": "Ranked",
+          "categoryName": "Ranked",
+          "isReversed": false
+        },
+        "value": 50.7,
+        "percentile": 49.0,
+        "rank": 4002903,
+        "displayValue": "50.70"
+      }
+    ]
+  }
+}

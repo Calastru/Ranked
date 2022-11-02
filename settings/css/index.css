@@ -1,0 +1,29 @@
+button{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 4px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#botaoAtualizar{
+    color: white;
+    margin-left: 50px;
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+#botaoAtualizar:hover{
+    animation-name: botaoAtualizar;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    cursor: pointer;
+}
+
+/*-----Animaçao botão Atualizar-----*/
+
+@keyframes botaoAtualizar{
+    to {
+        color: aqua;
+        box-shadow: 0px 0px 8px aqua;
+    }
+}
