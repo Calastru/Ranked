@@ -7,11 +7,6 @@ class connection
 
     public function __construct()
     {
-        //$nome = 'epiz_28721953_ranked';
-        //$user = 'epiz_28721953';
-        //$senha = 'QbQvCKif1s';
-        //$host = 'sql309.epizy.com:3306';
-
         $nome = 'ranked';
         $user = 'root';
         $senha = '';
